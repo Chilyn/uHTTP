@@ -5,5 +5,3 @@
 停止所有java进程命令：pkill - 9 java
 
 停止特定java进程命令：kill -9 java进程序号
-
-sssss
