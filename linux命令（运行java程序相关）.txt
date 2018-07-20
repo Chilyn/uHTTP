@@ -1,7 +1,0 @@
-﻿后台运行java程序：nohup java -jar server.jar >server.log &
-
-在Linux下查看所有java进程命令：ps -ef | grep java
-
-停止所有java进程命令：pkill - 9 java
-
-停止特定java进程命令：kill -9 java进程序号
